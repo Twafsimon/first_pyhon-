@@ -10,5 +10,5 @@ print('the sum of two numbers is : ',c)
 print('Subtruction is given be: ',b-c)
 print('Multiplication is :', a * b)
 print('division with decimal:',b/a)
-print(division with rounded: ', b//a)
+print('division with rounded: ', b//a)
 
