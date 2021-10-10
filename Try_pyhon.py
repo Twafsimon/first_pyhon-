@@ -2,7 +2,7 @@
 print("this is try python")
 import pandas as pd
 import matplotlib as mpt
-import maths
+import math
 a=10
 b=122
 c= a+b
