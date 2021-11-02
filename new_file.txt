@@ -1,0 +1,6 @@
+this new file is created in the remote and we want to pull it to the folder we created in Local system
+git pull
+git branch My_Branch -> to create a new branch from the local CMD
+git checkout My_Branch
+git status
+$ ls to see all the lists
